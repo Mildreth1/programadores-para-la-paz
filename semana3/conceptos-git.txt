@@ -1,0 +1,8 @@
+Repositorio:
+Es como una carpeta inteligente en internet donde guardamos todos los archivos de nuestro proyecto. Nos sirve para que todo este ordenado en un solo lugar y no se nos pierda nada del codigo.
+
+Commit:
+Es como tomarle una foto al estado actual de nuestro proyecto para guardar los avances que llevamos. Sirve para dejar un registro con un mensaje de que fue lo ultimo que arreglamos o agregamos.
+
+Push:
+Es el comando que usamos para enviar todas las fotos y cambios que hicimos en la computadora directo a la cuenta de GitHub en internet. Asi el proyecto se actualiza para que otras personas lo vean.
